@@ -11,7 +11,7 @@ Este proyecto es una demostración simple de mi experiencia utilizando **Next.js
 * **Axios** → Libreria que utilizo para hacer peticiones HTTP de distintos tipos en mi aplicación
 ---
 
-## 💡 Características del Proyecto
+## 2 Características del Proyecto
 
 * Consumo de una API pública (`randomuser.me`).
 * Uso de **fetch con Axios** y manejo de promesas con `async/await`.
@@ -20,7 +20,7 @@ Este proyecto es una demostración simple de mi experiencia utilizando **Next.js
 
 ---
 
-## 🧩 Estructura del Proyecto
+## 3 Estructura del Proyecto
 
 ```
 📁 src
@@ -35,7 +35,7 @@ Este proyecto es una demostración simple de mi experiencia utilizando **Next.js
 ```
 
 
-## 3 Instalación y Ejecución
+## 4 Instalación y Ejecución
 
 ```bash
 # Instalar dependencias
